@@ -1,10 +1,8 @@
 ## Svelte Testing
 
-Este repositorio esta principalmente pensado para abarcar pruebas y ejemplos de svelte.
+This repository is primarily intended to cover test and sample examples in Svelte. Also, this repository contains the code that is used during the development of the Svelte course at Platzi.
 
-Este repositorio contiene el código que se utiliza durante el desarrollo del curso de Svelte en Platzi.
+## Developing
 
-## Desarrollo
-
-- Inicio del Proyecto
+- Start of Development
 

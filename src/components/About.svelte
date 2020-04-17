@@ -1,5 +1,5 @@
 <script>
- let someVar = `Aprendiendo Svelte`;
+ let someVar = `Learning Svelte`;
  let count = 0;
  function handleClick() {
     count += 1;

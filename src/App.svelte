@@ -42,7 +42,7 @@
 </style>
 
 <main>
-	<h1>¡Hola {name} {lastName}!</h1>
+	<h1>¡Hello {name} {lastName}!</h1>
 	<About />
 	<img src={svelteLogo} alt="Svelte"/>
 </main>
