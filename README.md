@@ -11,3 +11,4 @@ This repository is primarily intended to cover test and sample examples in Svelt
 - Svelte Bind
 - Custom Button and Input
 - Photos from an API
+- Svelte Store
