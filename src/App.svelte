@@ -23,7 +23,8 @@
 	}
 
 	:global(:root) {
-		--theme-color: purple;
+		--color-light: purple;
+		--color-dark: white;
 	}
 
 	:global(body.dark-mode) {

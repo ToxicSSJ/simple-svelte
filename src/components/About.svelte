@@ -18,15 +18,23 @@
  p {
    color: var(--theme-color);
  }
+ .base-darkMode {
+   color: var(--color-light);
+ }
+ .base-lightMode {
+   color: var(--color-dark);
+ }
 </style>
 
 <div class="About">
 
-  {#if !styles.darkMode}
-    <p>{someVar}</p>
-  {:else}
-    <p><span>Hello DarkMode</span></p>
-  {/if}
+  <div class="{!styles.darkMode ? 'base-darkMode' : 'base-lightMode'}">
+    {#if !styles.darkMode}
+      <p>{someVar}</p>
+    {:else}
+      <p><span>Hello DarkMode</span></p>
+    {/if}
+  </div>
   <button on:click={handleClick}>Click {count == 0 ? '' : count}</button>
   <button on:click={toggle}>DarkMode</button>
 </div>
