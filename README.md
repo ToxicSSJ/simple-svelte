@@ -8,4 +8,6 @@ This repository is primarily intended to cover test and sample examples in Svelt
 - Svelte Props
 - Simple DarkMode
 - Skills
+- Svelte Bind
+- Custom Button and Input
 
