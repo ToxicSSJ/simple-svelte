@@ -5,4 +5,5 @@ This repository is primarily intended to cover test and sample examples in Svelt
 ## Developing
 
 - Start of Development
+- Svelte Props
 
