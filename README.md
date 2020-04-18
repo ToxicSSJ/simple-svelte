@@ -7,4 +7,5 @@ This repository is primarily intended to cover test and sample examples in Svelt
 - Start of Development
 - Svelte Props
 - Simple DarkMode
+- Skills
 

@@ -37,7 +37,7 @@
 </style>
 
 <div class="Skills">
-    <h3>Abilities</h3>
+    <h3>Skills</h3>
     <ul>
       {#each skills as skill, i}
       <li>{skill.name}</li>
