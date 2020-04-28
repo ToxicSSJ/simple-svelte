@@ -2,13 +2,13 @@
 
 This repository is primarily intended to cover test and sample examples in Svelte. Also, this repository contains the code that is used during the development of the Svelte course at Platzi.
 
-## Developing
+## Tasks
 
-- Start of Development
-- Svelte Props
-- Simple DarkMode
-- Skills
-- Svelte Bind
-- Custom Button and Input
-- Photos from an API
-- Svelte Store
+- [x] Start of Development
+- [x] Svelte Props
+- [x] Simple DarkMode
+- [x] Skills
+- [x] Svelte Bind
+- [x] Custom Button and Input
+- [x] Photos from an API
+- [x] Svelte Store
